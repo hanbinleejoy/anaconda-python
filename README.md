@@ -1,4 +1,5 @@
-# Python & Machine Learning
-anaconda-python fundamental : start machine learning
+# Machine Learning (Python)
+
+anaconda-python fundamental
 
 Supervised / Unsupervised
